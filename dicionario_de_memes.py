@@ -5,6 +5,10 @@ meme_dict = {
             "XD": "Es un emoticono que expresa una risa",
             "LMAO": "Significa que se parte el culo en pocas palabras"
             "UWU": "Es un emoticono de una cara"
+            "ROFL": "Una respuesta a una broma"
+            "SHEESH": "Ligera desaprobación"
+            "CREEPY": "Aterrador, siniestro"
+            "AGGRO": "Ponerse agresivo/enojado"
             }
 
 while True:
